@@ -29,7 +29,7 @@ import grails.plugin.multitenant.core.CurrentTenantThreadLocal
 
 class MultiTenantCoreGrailsPlugin
 {
-  def version = "1.0.5-DEV"
+  def version = "1.1-DEV"
   def grailsVersion = "1.3.0 > *"
   def dependsOn = [falconeUtil: "1.1-DEV"]
   def author = "Eric Martineau, Scott Ryan"
